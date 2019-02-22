@@ -4,7 +4,7 @@ Nexus3 with the apt plugin installed
 
 1- Clone the repository
 
-2- `cd repodir`
+2- `cd nexus3-apt`
 
 3- `docker build -t nexus3-apt .`
 
